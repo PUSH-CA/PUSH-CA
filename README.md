@@ -1,4 +1,4 @@
-# Hi, I'm Alexander 👋 Senior Software Architect | AI & Embedded Engineer
+# 👋 Senior Software Architect | AI & Embedded Engineer
 
 Специализируюсь на стыке **Computer Vision**, **Highload Backend** и **Robotics**. 
 Более 10 лет создаю системы «от железа до облака».
